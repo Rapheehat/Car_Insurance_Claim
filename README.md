@@ -10,7 +10,6 @@ The Car Insurance Data sourced from Kaggle forms the basis of this study, compri
 ## Installation
 To run the code in this repository, you'll need to install the necessary libraries
 ```
-bash
 pip install numpy pandas seaborn matplotlib scikit-learn scipy
 ```
 1. Clone or download the repository to your local machine.
